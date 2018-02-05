@@ -25,4 +25,4 @@ EXPOSE 4001
 
 WORKDIR /root/bitwarden-web
 
-CMD ["gulp", "serve"]
+CMD echo "VAULT_URL = http://$(hostname -i):4001/" 2>&1 ; gulp serve
