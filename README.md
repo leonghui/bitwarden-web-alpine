@@ -29,4 +29,4 @@ For setup instructions on Synology DSM, see the [wiki][web-wiki]
 [go-hub]: https://hub.docker.com/r/leonghui/bitwarden-go-alpine/
 [bitwarden-go-alpine]: https://github.com/leonghui/bitwarden-go-alpine
 [go-wiki]: https://github.com/leonghui/bitwarden-go-alpine/wiki
-[mprasil-bitwarden]: https://hub.docker.com/r/mprasil/bitwarden-ruby/
+[mprasil-bitwarden]: https://hub.docker.com/r/mprasil/bitwarden/
